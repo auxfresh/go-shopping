@@ -1,6 +1,6 @@
 import { QueryClient, QueryFunction } from "@tanstack/react-query";
 
-const BACKEND_URL = "https://43ac32ba-82fb-495e-99de-fe654d99ddbe-00-27gnfd4wtv1iu.picard.replit.dev";
+const BACKEND_URL = "https://EcommercePro.bolabukky90.repl.co";
 
 async function throwIfResNotOk(res: Response) {
   if (!res.ok) {
